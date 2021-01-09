@@ -2,3 +2,13 @@
 https://iptv-org.github.io/iptv/categories/auto.m3u
 #EXTINF:-1, Business
 https://iptv-org.github.io/iptv/categories/business.m3u
+#EXTINF:-1, Comedy
+Comedy	5	https://iptv-org.github.io/iptv/categories/comedy.m3u
+#EXTINF:-1, Documentary
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+#EXTINF:-1, Education
+https://iptv-org.github.io/iptv/categories/education.m3u
+#EXTINF:-1, Entertainment
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
+#EXTINF:-1, Family
+https://iptv-org.github.io/iptv/categories/family.m3u
